@@ -79,8 +79,8 @@ Interested in what we're building? Reach out or check out our portfolio site for
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6C63FF?style=for-the-badge)](#)
-[![Contact](https://img.shields.io/badge/📧_Contact-Get_In_Touch-orange?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6C63FF?style=for-the-badge)](https://brown-sheep-creatives.vercel.app/)
+[![Contact](https://img.shields.io/badge/📧_Contact-Get_In_Touch-orange?style=for-the-badge)](mailto:brownsheepcreative223@hotmail.com)
 
 </div>
 
