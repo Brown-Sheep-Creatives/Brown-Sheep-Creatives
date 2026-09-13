@@ -63,7 +63,7 @@ This engine is our **technical moat** — powering our own titles today, with ro
 
 ## 🏢 Studio Structure
 
-Brown Sheep Creatives runs as an **LLP** with a 50:50 profit split and joint sign-off on major decisions, organized across three departments:
+Brown Sheep Creatives runs as an **LLP**, organized across three departments:
 
 <div align="center">
 
